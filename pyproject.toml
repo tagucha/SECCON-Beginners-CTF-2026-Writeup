@@ -1,0 +1,12 @@
+[project]
+name = "seccon-beginners-ctf-2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fpylll>=0.6.4",
+    "pwn>=1.0",
+    "pycryptodome>=3.23.0",
+    "requests>=2.34.2",
+]
